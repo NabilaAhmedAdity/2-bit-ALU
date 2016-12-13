@@ -19,6 +19,8 @@ For **and**, put 001 in first multiplxer and 0 in second. See an example in imag
 
 For **or**, put 010 in first multiplxer and 0 in second. See an example in image 'or.png'.
 
+For **xor**, put 011 in first multiplxer and 0 in second. See an example in image 'xor.png'.
+
 For **addition**, put 100 in first multiplxer and 0 in second. Make sure that sub is 0. See an example in image 'add.png'.
 
 For **subtraction**, put 100 in first multiplxer and 0 in second. Make sure that sub is now 1. See an example in image 'sub.png'.
